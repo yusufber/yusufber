@@ -50,7 +50,7 @@
             <p>Python ile yazılmış. </p>
         </td>
         <td align="center" width="50%">
-            <h3>🔥 <a href="">Admin Panel Finder</a></h3>
+            <h3>🔥 <a href=""></a></h3>
             <p>Python İle Yazılmış.</p>
         </td>
     </tr>
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
+    <img src="https://img.shields.io/badge/-Ubuntu-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Ubuntu" />
 </p>
 
 ---
