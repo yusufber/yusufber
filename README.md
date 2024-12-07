@@ -72,8 +72,8 @@
 
 ## 🌐 Bana Ulaşın
 <p align="center">
-    📧 **E-posta:** <a href="mailto:yusufberkdemirel@example.com">yusufdiscordbrk@gmail.com</a><br>
-    💼 **LinkedIn:** <a href="www.linkedin.com/in/yusuf-berk-demirel-709601285">linkedin.com/in/reksysec</a><br>
+    📧 **E-posta:** <a href="mailto:yusufdiscordbrk@gmail.com">yusufdiscordbrk@gmail.com</a><br>
+    💼 **LinkedIn:** <a href="www.linkedin.com/in/yusuf-berk-demirel-709601285">linkedin.com/in/yusufberkdemirel</a><br>
 </p>
 
 ---
